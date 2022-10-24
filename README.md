@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AsharAA
-- 👀 I’m interested in ... all shot of programming things
+- 👀 I’m interested in ... all shots of programming things
 - 🌱 I’m currently learning ... Machine Learning
 - 💞️ I’m looking forward to contributing on ... OpenSource projects
 - 📫 How to reach me ... @AsharAA
